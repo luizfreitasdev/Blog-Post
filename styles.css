@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-content {
+    margin: 151px 0 0 294px ;
+}
+
+#content {
+    margin-left: 380px;
+    padding-top: 40px;
+}
+
+#logo {
+    color: gray;
+    font-size: 12px;
+    font-weight: 300;
+}
