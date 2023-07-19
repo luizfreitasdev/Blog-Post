@@ -33,7 +33,7 @@ header {
   margin: 42px 0 42px 0;
 }
 
-.uppercase {
+.share-post {
   font-size: 12px;
   text-transform: uppercase;
   margin: 0;
@@ -42,6 +42,7 @@ header {
   justify-content: center;
   padding: 8px;
 }
+
 .icons {
   padding: 8px 0;
   display: flex;
