@@ -12,7 +12,7 @@ Página simples que utilizei para aprimorar meus conhecimentos básicos de HTML 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="projeto BlogPost" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
