@@ -1,23 +1,98 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
 body {
-    font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
 }
 
-.hero-content {
-    margin: 151px 0 0 294px ;
+/* HEADER */
+header {
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 0.6px;
+  line-height: 30px;
+  color: white;
+  background-color: blue;
+  padding: 25px 0 25px 0;
 }
 
-#content {
-    margin-left: 380px;
-    padding-top: 40px;
+/* TITULO DO ARTIGO */
+
+.title .post-author {
+  color: gray;
+  font-size: 12px;
+  font-weight: 300;
 }
 
-#logo {
-    color: gray;
-    font-size: 12px;
-    font-weight: 300;
+.title h1 {
+  font-size: 52px;
+  line-height: 58px;
+  margin: 0 0 10px 0;
+}
+
+.title img {
+  max-width: 100%;
+  margin: 42px 0 42px 0;
+}
+
+.uppercase {
+  font-size: 12px;
+  text-transform: uppercase;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+.icons {
+  padding: 8px 0;
+  display: flex;
+}
+.icons a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
+
+article {
+  max-width: 850px;
+  margin: auto;
+  padding: 70px 16px 0 16px;
+}
+
+#content-section {
+  max-width: 680px;
+  margin: auto;
+}
+
+#section-1 {
+  margin-bottom: 24px;
+}
+
+.video {
+  margin: 50px 0 50px 0;
+  max-width: 100%;
+}
+
+footer {
+  background-color: #f4f4f4;
+  max-width: 680px;
+  padding: 20px 15px;
+  margin-bottom: 70px;
+  border-radius: 10px;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+footer a {
+  font-size: 16px;
+  font-weight: 500px;
 }
